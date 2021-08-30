@@ -1,0 +1,12 @@
+{
+    "name": "preparepte",
+    "version": "1.0.0",
+    "description": "Static site for preparepte",
+    "main": "dist/preparepte/server/main.js",
+    "scripts": {
+        "start": "node dist/preparepte/server/main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gaurav Bhatt",
+    "license": "ISC"
+}
